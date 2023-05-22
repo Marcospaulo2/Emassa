@@ -63,7 +63,7 @@ session_start();
                                 </ul>
                             </li> -->
                             <li class="nav-item">
-                                <a target="_black" href=" https://instagram.com/camaroteemassa?igshid=ZWIzMWE5ZmU3Zg=="><img src="img/eYx8cP.tif.png"></a>
+                                <a target="_black" href=" https://instagram.com/camarote_massa?igshid=MmJiY2I4NDBkZg=="><img src="img/eYx8cP.tif.png"></a>
                             </li>
                         </ul>
                     </div>
@@ -87,7 +87,7 @@ session_start();
         </a>
     </div>
 
-    <img width="100%" src="img/sj-massayo.png" alt="banner-emassa" >
+    <img width="100%"  src="img/sj-massayo.png" alt="banner-emassa" >
 
     <!-- <div class="form-bg" id="form">
         <br>
@@ -206,7 +206,7 @@ session_start();
         </div>
     </div>
     <!-- dúvida erro -->
-    <?php
+    <!-- <?php
     if (isset($_SESSION['erro'])) {
         echo '
         <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
@@ -222,7 +222,7 @@ session_start();
         </div>';
         $_SESSION['erro'] = null;
     }
-    ?>
+    ?> -->
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
 
