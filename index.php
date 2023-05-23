@@ -87,7 +87,7 @@ session_start();
         </a>
     </div>
 
-    <img width="100%"  src="img/sj-massayo.png" alt="banner-emassa" >
+    <img width="100%"  src="img/site-sjmassayo.png" alt="banner-emassa" >
 
     <!-- <div class="form-bg" id="form">
         <br>
